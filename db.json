@@ -14,6 +14,21 @@
             "id": 3,
             "title": "json-serve3",
             "author": "typicode3"
+        },
+        {
+            "id": 4,
+            "title": "first",
+            "author": "me"
+        },
+        {
+            "id": 5,
+            "title": "second",
+            "author": "toome"
+        },
+        {
+            "id": 6,
+            "title": "third",
+            "author": "yolo"
         }
     ],
     "comments": [
