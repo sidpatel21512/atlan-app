@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiDomain: 'http://localhost:3000'
+  apiDomain: 'https://my-json-server.typicode.com/sidpatel21512/atlan-app'
 };
